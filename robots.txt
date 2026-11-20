@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://talitacoutinhoadvogada.com.br/sitemap.xml
